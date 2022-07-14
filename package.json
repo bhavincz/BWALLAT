@@ -1,0 +1,25 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "balance-crypto": "^0.2.15",
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoin-address-validation": "^2.2.1",
+    "bitcoinjs-lib": "^6.0.1",
+    "bitcore-insight": "^1.0.1",
+    "bitcore-lib": "^8.25.31",
+    "bitcore-mnemonic": "^8.25.31",
+    "body-parser": "^1.20.0",
+    "hdkey": "^2.0.1"
+  }
+}
